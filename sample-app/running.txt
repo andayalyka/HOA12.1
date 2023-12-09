@@ -1,0 +1,29 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS                       PORTS     NAMES
+635d9205de1e   2acccf902fa3   "/bin/sh -c 'apt ins…"   4 minutes ago   Exited (100) 4 minutes ago             romantic_kapitsa
+df426edcc4b8   2acccf902fa3   "/bin/sh -c 'pip ins…"   4 hours ago     Exited (2) 4 hours ago                 recursing_lovelace
+bb6c1c3d6c19   2acccf902fa3   "/bin/sh -c 'pip ins…"   4 hours ago     Exited (2) 4 hours ago                 nice_heyrovsky
+d18bf776cd4d   2acccf902fa3   "/bin/sh -c 'pip ins…"   4 hours ago     Exited (2) 4 hours ago                 flamboyant_wilbur
+0e5dd01f9589   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 dazzling_mclaren
+5879b204b66a   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 kind_chatelet
+0ffc350ef738   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 stoic_clarke
+671202c3dae5   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 sweet_edison
+aeab0078470c   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 confident_shaw
+4463b981e066   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 elastic_jennings
+739d37c12ffa   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 laughing_burnell
+e031e178e351   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 cool_raman
+96adec630373   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 inspiring_mcnulty
+5b9ff016ee1c   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 eager_edison
+268904757c3b   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 stoic_shaw
+6d06f7986d77   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 vibrant_khorana
+d549a12c1b6b   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 awesome_bardeen
+1a8128e24706   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 angry_nash
+420ec162e325   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 distracted_dewdney
+3049c9d25bd2   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 pensive_feistel
+c7a7f16d8d74   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 friendly_kare
+b23858f55152   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 xenodochial_proskuriakova
+0465f86feeb6   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 sweet_volhard
+a078da5bf4ed   2acccf902fa3   "/bin/sh -c 'pip ins…"   5 hours ago     Exited (2) 5 hours ago                 jovial_pare
+4a281dfa2ab9   2acccf902fa3   "/bin/sh -c 'pip ins…"   8 hours ago     Exited (2) 8 hours ago                 frosty_tereshkova
+ce9d65fad5b5   2acccf902fa3   "/bin/sh -c 'pip ins…"   8 hours ago     Exited (2) 8 hours ago                 compassionate_napier
+CONTAINER ID   IMAGE       COMMAND                  CREATED         STATUS         PORTS                                       NAMES
+8008f5cc6c85   sampleapp   "/bin/sh -c 'python3…"   3 minutes ago   Up 3 minutes   0.0.0.0:8080->8080/tcp, :::8080->8080/tcp   samplerunning
